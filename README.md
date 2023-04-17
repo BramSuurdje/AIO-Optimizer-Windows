@@ -1,4 +1,4 @@
-# ET All-in-One Optimization Script
+# All-in-One Optimization Script
 Optimize performance, improve privacy, and remove bloatware with 1 click.
 
 Last tested/updated on:
