@@ -9,7 +9,7 @@ Last tested/updated on:
 </br>
 Download link: <a href="https://github.com/BramSuurdje/AIO_Optimizer_Windows/releases/download/1.0/AIO.bat" target="_blank">ET-AIO.bat</a></br></br> 
 
-Script developed from many sources found on the Internet, tested and updated for different versions of the system. </br>The whole script is contained in 1 file, it uses: command prompt, powershell, power plan configuration, boot configuration, registry changes, network interface configuration, built-in windows tools, etc.
+The script was created by compiling various sources discovered on the internet, rigorously tested, and refined to cater to different versions of the system. It is a comprehensive package encapsulated in a single file and incorporates an array of features such as command prompt, powershell, power plan configuration, boot configuration, registry changes, network interface configuration, built-in windows tools, and more.
 
 ## What it does 
 
