@@ -7,13 +7,13 @@ Last tested/updated on:
 <li>Windows 11 Pro 22H2</li>
 </ul> 
 </br>
-Download link: <a href="https://github.com/BramSuurdje/AIO_Optimizer_Windows/releases/download/1.0/AIO.bat" target="_blank">ET-AIO.bat</a></br></br> 
+Download link: <a href="https://github.com/BramSuurdje/AIO_Optimizer_Windows/releases/download/1.0/AIO.bat" target="_blank">AIO.bat</a></br></br> 
 
 The script was created by compiling various sources discovered on the internet, rigorously tested, and refined to cater to different versions of the system. It is a comprehensive package encapsulated in a single file and incorporates an array of features such as command prompt, powershell, power plan configuration, boot configuration, registry changes, network interface configuration, built-in windows tools, and more.
 
 ## What it does 
 
-**Each part of the ET Script has a comment and can be edited freely.**
+**Each part of the Script has a comment and can be edited freely.**
 
 </br>
  <table style="width: 100%">
